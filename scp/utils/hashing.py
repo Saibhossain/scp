@@ -1,4 +1,4 @@
 import hashlib
 
-def H(data: bytes) -> bytes:
-    return hashlib.sha256(data).digest()
+def H(x: str) -> str:
+    return hashlib.sha256(x.encode()).hexdigest()
