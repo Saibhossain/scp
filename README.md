@@ -157,3 +157,22 @@ Clone Repository
     
     git clone https://github.com/Saibhossain/scp.git
     cd scp
+
+## Install Dependencies
+    
+    pip install -r requirements.txt
+
+## Citation
+
+    @article{scp2026,
+      title={Signed Context Protocol: Cryptographic Trust Enforcement for Agentic LLM Tool Use},
+      author={Anonymous Authors},
+      journal={NeurIPS},
+      year={2026}
+    }
+
+## License
+
+
+# Contact
+Research inquiries:
